@@ -1,4 +1,4 @@
 # LafraudeTools
 test
 
-CURRENT_VERSION = 1.0
+Version : 1.0
