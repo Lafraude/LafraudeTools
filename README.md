@@ -1,2 +1,4 @@
 # LafraudeTools
-Version : 1.1
+test
+
+Version : 1.2
