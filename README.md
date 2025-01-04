@@ -32,8 +32,7 @@ python main.py
 ```
 
 Voici les options disponible : 
-# Projet XYZ
 
 ![Version](https://img.shields.io/badge/version-1.7-brightgreen)
-![Author](https://img.shields.io/badge/author-htr--tech-lightgrey)
+![Author](https://img.shields.io/badge/author-Lafraude-lightgrey)
 ![Maintained](https://img.shields.io/badge/maintained-Yes-blue)
