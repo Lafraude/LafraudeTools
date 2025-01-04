@@ -1,6 +1,5 @@
 # LafraudeTools
 
-version : 1.7
 Vous serrez informer des dernière mise a jours depuis le tools
 (Si vous prendre la dernière mise a jours regardez dans le canal télègrame directrement)
 
@@ -33,6 +32,6 @@ python main.py
 
 Voici les options disponible : 
 
-![Version](https://img.shields.io/badge/version-1.8-brightgreen)
+![Version](https://img.shields.io/badge/version-1.8.0-brightgreen)
 ![Author](https://img.shields.io/badge/author-Lafraude-lightgrey)
 ![Maintained](https://img.shields.io/badge/maintained-Yes-blue)
