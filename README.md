@@ -52,4 +52,6 @@ python main.py
 ├───[6] Dark Web Link  
 ├───[7] Builder (Soon)  
 ├───[8] Username Tracker  
-└───[9] Obfuscator (Soon)  
+├───[9] Obfuscator (Soon)  
+├───[10] DDOS Riper (Intégré (Soon))  
+└───[11] Phone Lookup
