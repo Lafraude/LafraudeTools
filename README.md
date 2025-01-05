@@ -1,5 +1,5 @@
 # LafraudeTools
-![Version](https://img.shields.io/badge/version-1.8.1-brightgreen)
+![Version](https://img.shields.io/badge/version-1.1.0-brightgreen)
 ![Author](https://img.shields.io/badge/author-Lafraude-lightgrey)
 ![Maintained](https://img.shields.io/badge/maintained-Yes-blue)
 
