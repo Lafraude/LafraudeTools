@@ -23,10 +23,9 @@ Cela ouvrira le Microsoft Store.
 
 ### Lancer le fichier `install.bat`
 Une fois Python installé, vous devez exécuter le fichier `install.bat`.  
-Pour cela, utilisez la commande suivante dans le terminal :
 
 ```bash
-python install.bat
+install.bat
 ```
 
 Puis vous pouvez lancer le tools !
@@ -48,7 +47,7 @@ python main.py
 │  
 ├───[2] Ip Info  
 ├───[3] Rats (Soon)  
-├───[4] Phishing-Attack  
+├───[4] Phishing-Attack (Soon)  
 ├───[5] Domaine Lookup  
 ├───[6] Dark Web Link  
 ├───[7] Builder (Soon)  
