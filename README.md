@@ -49,7 +49,7 @@ python main.py
 ├───[3] Rats (Soon)  
 ├───[4] Phishing-Attack (Soon)  
 ├───[5] Domaine Lookup  
-├───[6] Dark Web Link  
+├───[6] Dark Web Link  (Paid)  
 ├───[7] Builder (Soon)  
 ├───[8] Username Tracker  
 ├───[9] Obfuscator (Soon)  
